@@ -1,0 +1,7238 @@
+[
+    {
+      "_id": 0,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 0 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "273,457.53",
+      "alphachi": 46,
+      "rakusatsugyosha": "有限会社六ッ川建設 0"
+    },
+    {
+      "_id": 1,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 1 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "272,074.31",
+      "alphachi": 44.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 3"
+    },
+    {
+      "_id": 2,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 2 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "139,509.39",
+      "alphachi": 88,
+      "rakusatsugyosha": "有限会社六ッ川建設 6"
+    },
+    {
+      "_id": 3,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 3 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "360,374.38",
+      "alphachi": 45.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 9"
+    },
+    {
+      "_id": 4,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 4 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "183,169.11",
+      "alphachi": 28.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 12"
+    },
+    {
+      "_id": 5,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 5 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "360,037.70",
+      "alphachi": 10.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 15"
+    },
+    {
+      "_id": 6,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 6 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "223,426.34",
+      "alphachi": 47,
+      "rakusatsugyosha": "有限会社六ッ川建設 18"
+    },
+    {
+      "_id": 7,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 7 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "245,921.80",
+      "alphachi": 82.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 21"
+    },
+    {
+      "_id": 8,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 8 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "362,888.79",
+      "alphachi": 60.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 24"
+    },
+    {
+      "_id": 9,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 9 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "377,439.79",
+      "alphachi": 90.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 27"
+    },
+    {
+      "_id": 10,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 10 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "358,226.85",
+      "alphachi": 29.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 30"
+    },
+    {
+      "_id": 11,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 11 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "265,923.21",
+      "alphachi": 66.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 33"
+    },
+    {
+      "_id": 12,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 12 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "110,980.14",
+      "alphachi": 69.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 36"
+    },
+    {
+      "_id": 13,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 13 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "212,236.42",
+      "alphachi": 36.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 39"
+    },
+    {
+      "_id": 14,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 14 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "360,773.51",
+      "alphachi": 18.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 42"
+    },
+    {
+      "_id": 15,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 15 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "120,487.60",
+      "alphachi": 64.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 45"
+    },
+    {
+      "_id": 16,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 16 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "179,972.29",
+      "alphachi": 66.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 48"
+    },
+    {
+      "_id": 17,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 17 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "198,681.32",
+      "alphachi": 71.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 51"
+    },
+    {
+      "_id": 18,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 18 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "174,713.39",
+      "alphachi": 25.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 54"
+    },
+    {
+      "_id": 19,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 19 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "362,369.68",
+      "alphachi": 93.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 57"
+    },
+    {
+      "_id": 20,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 20 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "230,176.88",
+      "alphachi": 52.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 60"
+    },
+    {
+      "_id": 21,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 21 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "170,099.06",
+      "alphachi": 25.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 63"
+    },
+    {
+      "_id": 22,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 22 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "346,760.62",
+      "alphachi": 20.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 66"
+    },
+    {
+      "_id": 23,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 23 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "380,351.11",
+      "alphachi": 63.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 69"
+    },
+    {
+      "_id": 24,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 24 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "250,225.30",
+      "alphachi": 73.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 72"
+    },
+    {
+      "_id": 25,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 25 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "344,537.07",
+      "alphachi": 29.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 75"
+    },
+    {
+      "_id": 26,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 26 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "303,722.12",
+      "alphachi": 39.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 78"
+    },
+    {
+      "_id": 27,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 27 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "106,124.58",
+      "alphachi": 66.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 81"
+    },
+    {
+      "_id": 28,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 28 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "242,920.86",
+      "alphachi": 79,
+      "rakusatsugyosha": "有限会社六ッ川建設 84"
+    },
+    {
+      "_id": 29,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 29 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "180,453.61",
+      "alphachi": 83.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 87"
+    },
+    {
+      "_id": 30,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 30 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "151,442.97",
+      "alphachi": 84.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 90"
+    },
+    {
+      "_id": 31,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 31 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "384,064.68",
+      "alphachi": 13.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 93"
+    },
+    {
+      "_id": 32,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 32 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "217,962.18",
+      "alphachi": 23.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 96"
+    },
+    {
+      "_id": 33,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 33 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "329,397.60",
+      "alphachi": 46.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 99"
+    },
+    {
+      "_id": 34,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 34 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "299,825.76",
+      "alphachi": 90.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 102"
+    },
+    {
+      "_id": 35,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 35 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "347,348.23",
+      "alphachi": 7.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 105"
+    },
+    {
+      "_id": 36,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 36 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "197,766.68",
+      "alphachi": 17,
+      "rakusatsugyosha": "有限会社六ッ川建設 108"
+    },
+    {
+      "_id": 37,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 37 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "123,122.98",
+      "alphachi": 15.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 111"
+    },
+    {
+      "_id": 38,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 38 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "277,139.79",
+      "alphachi": 99,
+      "rakusatsugyosha": "有限会社六ッ川建設 114"
+    },
+    {
+      "_id": 39,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 39 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "277,454.09",
+      "alphachi": 52.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 117"
+    },
+    {
+      "_id": 40,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 40 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "209,758.94",
+      "alphachi": 30.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 120"
+    },
+    {
+      "_id": 41,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 41 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "160,475.66",
+      "alphachi": 38.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 123"
+    },
+    {
+      "_id": 42,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 42 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "135,105.83",
+      "alphachi": 2.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 126"
+    },
+    {
+      "_id": 43,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 43 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "222,403.52",
+      "alphachi": 55.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 129"
+    },
+    {
+      "_id": 44,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 44 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "277,417.99",
+      "alphachi": 59.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 132"
+    },
+    {
+      "_id": 45,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 45 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "376,587.46",
+      "alphachi": 30.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 135"
+    },
+    {
+      "_id": 46,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 46 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "234,523.25",
+      "alphachi": 64.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 138"
+    },
+    {
+      "_id": 47,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 47 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "383,729.80",
+      "alphachi": 10.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 141"
+    },
+    {
+      "_id": 48,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 48 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "308,579.53",
+      "alphachi": 96.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 144"
+    },
+    {
+      "_id": 49,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 49 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "286,959.37",
+      "alphachi": 3.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 147"
+    },
+    {
+      "_id": 50,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 50 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "111,135.47",
+      "alphachi": 67.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 150"
+    },
+    {
+      "_id": 51,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 51 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "348,471.96",
+      "alphachi": 29.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 153"
+    },
+    {
+      "_id": 52,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 52 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "264,428.68",
+      "alphachi": 94.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 156"
+    },
+    {
+      "_id": 53,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 53 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "259,665.93",
+      "alphachi": 1.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 159"
+    },
+    {
+      "_id": 54,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 54 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "328,752.71",
+      "alphachi": 48.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 162"
+    },
+    {
+      "_id": 55,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 55 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "203,687.72",
+      "alphachi": 34.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 165"
+    },
+    {
+      "_id": 56,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 56 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "389,177.51",
+      "alphachi": 27.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 168"
+    },
+    {
+      "_id": 57,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 57 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "267,579.64",
+      "alphachi": 98,
+      "rakusatsugyosha": "有限会社六ッ川建設 171"
+    },
+    {
+      "_id": 58,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 58 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "230,812.66",
+      "alphachi": 7.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 174"
+    },
+    {
+      "_id": 59,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 59 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,342.03",
+      "alphachi": 89.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 177"
+    },
+    {
+      "_id": 60,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 60 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "371,020.79",
+      "alphachi": 72.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 180"
+    },
+    {
+      "_id": 61,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 61 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "287,148.55",
+      "alphachi": 63.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 183"
+    },
+    {
+      "_id": 62,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 62 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "214,313.47",
+      "alphachi": 50.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 186"
+    },
+    {
+      "_id": 63,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 63 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "392,626.82",
+      "alphachi": 64.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 189"
+    },
+    {
+      "_id": 64,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 64 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "132,776.35",
+      "alphachi": 18.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 192"
+    },
+    {
+      "_id": 65,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 65 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "229,479.61",
+      "alphachi": 44.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 195"
+    },
+    {
+      "_id": 66,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 66 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "374,506.36",
+      "alphachi": 13,
+      "rakusatsugyosha": "有限会社六ッ川建設 198"
+    },
+    {
+      "_id": 67,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 67 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "300,368.47",
+      "alphachi": 20.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 201"
+    },
+    {
+      "_id": 68,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 68 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "187,450.34",
+      "alphachi": 15.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 204"
+    },
+    {
+      "_id": 69,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 69 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "339,393.90",
+      "alphachi": 94.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 207"
+    },
+    {
+      "_id": 70,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 70 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,916.84",
+      "alphachi": 9.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 210"
+    },
+    {
+      "_id": 71,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 71 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "283,527.97",
+      "alphachi": 74.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 213"
+    },
+    {
+      "_id": 72,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 72 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "354,449.08",
+      "alphachi": 5.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 216"
+    },
+    {
+      "_id": 73,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 73 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "305,415.21",
+      "alphachi": 88.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 219"
+    },
+    {
+      "_id": 74,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 74 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "357,985.44",
+      "alphachi": 6.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 222"
+    },
+    {
+      "_id": 75,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 75 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "108,968.87",
+      "alphachi": 28.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 225"
+    },
+    {
+      "_id": 76,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 76 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "330,346.67",
+      "alphachi": 23.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 228"
+    },
+    {
+      "_id": 77,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 77 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "335,730.71",
+      "alphachi": 74.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 231"
+    },
+    {
+      "_id": 78,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 78 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "356,452.54",
+      "alphachi": 35.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 234"
+    },
+    {
+      "_id": 79,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 79 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "125,749.55",
+      "alphachi": 15.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 237"
+    },
+    {
+      "_id": 80,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 80 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "311,480.36",
+      "alphachi": 7.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 240"
+    },
+    {
+      "_id": 81,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 81 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "370,790.22",
+      "alphachi": 77.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 243"
+    },
+    {
+      "_id": 82,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 82 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "361,698.70",
+      "alphachi": 41.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 246"
+    },
+    {
+      "_id": 83,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 83 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "226,373.06",
+      "alphachi": 55.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 249"
+    },
+    {
+      "_id": 84,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 84 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "206,501.43",
+      "alphachi": 96.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 252"
+    },
+    {
+      "_id": 85,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 85 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "203,327.27",
+      "alphachi": 61,
+      "rakusatsugyosha": "有限会社六ッ川建設 255"
+    },
+    {
+      "_id": 86,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 86 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "212,479.53",
+      "alphachi": 85.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 258"
+    },
+    {
+      "_id": 87,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 87 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "344,636.47",
+      "alphachi": 70.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 261"
+    },
+    {
+      "_id": 88,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 88 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "281,017.85",
+      "alphachi": 67,
+      "rakusatsugyosha": "有限会社六ッ川建設 264"
+    },
+    {
+      "_id": 89,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 89 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "269,052.25",
+      "alphachi": 26.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 267"
+    },
+    {
+      "_id": 90,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 90 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "179,970.69",
+      "alphachi": 61.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 270"
+    },
+    {
+      "_id": 91,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 91 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "116,892.18",
+      "alphachi": 62.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 273"
+    },
+    {
+      "_id": 92,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 92 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,038.90",
+      "alphachi": 71.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 276"
+    },
+    {
+      "_id": 93,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 93 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "297,115.97",
+      "alphachi": 14.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 279"
+    },
+    {
+      "_id": 94,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 94 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,329.30",
+      "alphachi": 22.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 282"
+    },
+    {
+      "_id": 95,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 95 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "314,829.12",
+      "alphachi": 54.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 285"
+    },
+    {
+      "_id": 96,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 96 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "125,883.18",
+      "alphachi": 7.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 288"
+    },
+    {
+      "_id": 97,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 97 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "264,264.40",
+      "alphachi": 19.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 291"
+    },
+    {
+      "_id": 98,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 98 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "220,561.39",
+      "alphachi": 67.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 294"
+    },
+    {
+      "_id": 99,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 99 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "286,794.31",
+      "alphachi": 10,
+      "rakusatsugyosha": "有限会社六ッ川建設 297"
+    },
+    {
+      "_id": 100,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 100 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "390,230.42",
+      "alphachi": 92.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 300"
+    },
+    {
+      "_id": 101,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 101 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "351,019.35",
+      "alphachi": 74.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 303"
+    },
+    {
+      "_id": 102,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 102 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,649.02",
+      "alphachi": 1.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 306"
+    },
+    {
+      "_id": 103,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 103 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "369,586.61",
+      "alphachi": 58,
+      "rakusatsugyosha": "有限会社六ッ川建設 309"
+    },
+    {
+      "_id": 104,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 104 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "357,582.25",
+      "alphachi": 67.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 312"
+    },
+    {
+      "_id": 105,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 105 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "166,582.27",
+      "alphachi": 15.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 315"
+    },
+    {
+      "_id": 106,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 106 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "301,782.61",
+      "alphachi": 8.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 318"
+    },
+    {
+      "_id": 107,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 107 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "232,537.02",
+      "alphachi": 10.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 321"
+    },
+    {
+      "_id": 108,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 108 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "115,465.13",
+      "alphachi": 12,
+      "rakusatsugyosha": "有限会社六ッ川建設 324"
+    },
+    {
+      "_id": 109,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 109 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "192,351.61",
+      "alphachi": 80.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 327"
+    },
+    {
+      "_id": 110,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 110 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "105,412.07",
+      "alphachi": 44.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 330"
+    },
+    {
+      "_id": 111,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 111 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "271,760.26",
+      "alphachi": 46,
+      "rakusatsugyosha": "有限会社六ッ川建設 333"
+    },
+    {
+      "_id": 112,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 112 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "391,292.03",
+      "alphachi": 91.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 336"
+    },
+    {
+      "_id": 113,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 113 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "123,741.23",
+      "alphachi": 44.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 339"
+    },
+    {
+      "_id": 114,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 114 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "246,128.36",
+      "alphachi": 78.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 342"
+    },
+    {
+      "_id": 115,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 115 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "299,003.14",
+      "alphachi": 5.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 345"
+    },
+    {
+      "_id": 116,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 116 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "116,289.50",
+      "alphachi": 48.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 348"
+    },
+    {
+      "_id": 117,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 117 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "383,902.62",
+      "alphachi": 35.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 351"
+    },
+    {
+      "_id": 118,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 118 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "246,044.42",
+      "alphachi": 96.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 354"
+    },
+    {
+      "_id": 119,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 119 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "262,787.34",
+      "alphachi": 35.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 357"
+    },
+    {
+      "_id": 120,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 120 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "191,752.42",
+      "alphachi": 24.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 360"
+    },
+    {
+      "_id": 121,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 121 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "103,696.95",
+      "alphachi": 26.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 363"
+    },
+    {
+      "_id": 122,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 122 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "303,390.73",
+      "alphachi": 45.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 366"
+    },
+    {
+      "_id": 123,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 123 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "398,248.38",
+      "alphachi": 75.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 369"
+    },
+    {
+      "_id": 124,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 124 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "210,083.52",
+      "alphachi": 61,
+      "rakusatsugyosha": "有限会社六ッ川建設 372"
+    },
+    {
+      "_id": 125,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 125 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "359,484.81",
+      "alphachi": 22.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 375"
+    },
+    {
+      "_id": 126,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 126 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "301,472.14",
+      "alphachi": 41.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 378"
+    },
+    {
+      "_id": 127,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 127 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "320,928.14",
+      "alphachi": 22.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 381"
+    },
+    {
+      "_id": 128,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 128 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "121,729.20",
+      "alphachi": 97.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 384"
+    },
+    {
+      "_id": 129,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 129 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "261,066.59",
+      "alphachi": 37.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 387"
+    },
+    {
+      "_id": 130,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 130 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "194,170.48",
+      "alphachi": 70.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 390"
+    },
+    {
+      "_id": 131,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 131 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "374,997.70",
+      "alphachi": 81.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 393"
+    },
+    {
+      "_id": 132,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 132 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "153,535.71",
+      "alphachi": 31.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 396"
+    },
+    {
+      "_id": 133,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 133 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "191,195.50",
+      "alphachi": 97.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 399"
+    },
+    {
+      "_id": 134,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 134 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "138,209.80",
+      "alphachi": 89.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 402"
+    },
+    {
+      "_id": 135,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 135 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "172,628.35",
+      "alphachi": 20.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 405"
+    },
+    {
+      "_id": 136,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 136 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "289,659.38",
+      "alphachi": 69.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 408"
+    },
+    {
+      "_id": 137,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 137 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "315,611.69",
+      "alphachi": 53,
+      "rakusatsugyosha": "有限会社六ッ川建設 411"
+    },
+    {
+      "_id": 138,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 138 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "399,852.62",
+      "alphachi": 60.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 414"
+    },
+    {
+      "_id": 139,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 139 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "199,185.05",
+      "alphachi": 58.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 417"
+    },
+    {
+      "_id": 140,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 140 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "252,790.12",
+      "alphachi": 82.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 420"
+    },
+    {
+      "_id": 141,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 141 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "397,106.21",
+      "alphachi": 10.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 423"
+    },
+    {
+      "_id": 142,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 142 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "216,294.20",
+      "alphachi": 79.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 426"
+    },
+    {
+      "_id": 143,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 143 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "157,094.66",
+      "alphachi": 83.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 429"
+    },
+    {
+      "_id": 144,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 144 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "380,646.83",
+      "alphachi": 42.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 432"
+    },
+    {
+      "_id": 145,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 145 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "207,290.36",
+      "alphachi": 32.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 435"
+    },
+    {
+      "_id": 146,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 146 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "149,445.06",
+      "alphachi": 57.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 438"
+    },
+    {
+      "_id": 147,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 147 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "273,453.31",
+      "alphachi": 42.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 441"
+    },
+    {
+      "_id": 148,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 148 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "320,043.25",
+      "alphachi": 99,
+      "rakusatsugyosha": "有限会社六ッ川建設 444"
+    },
+    {
+      "_id": 149,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 149 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "237,697.72",
+      "alphachi": 78.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 447"
+    },
+    {
+      "_id": 150,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 150 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "368,868.30",
+      "alphachi": 7.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 450"
+    },
+    {
+      "_id": 151,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 151 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "273,488.23",
+      "alphachi": 12.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 453"
+    },
+    {
+      "_id": 152,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 152 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "280,691.56",
+      "alphachi": 45.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 456"
+    },
+    {
+      "_id": 153,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 153 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "282,467.94",
+      "alphachi": 87.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 459"
+    },
+    {
+      "_id": 154,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 154 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "151,449.32",
+      "alphachi": 90.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 462"
+    },
+    {
+      "_id": 155,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 155 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "350,245.24",
+      "alphachi": 79.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 465"
+    },
+    {
+      "_id": 156,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 156 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "364,507.91",
+      "alphachi": 75.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 468"
+    },
+    {
+      "_id": 157,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 157 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "240,228.93",
+      "alphachi": 7.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 471"
+    },
+    {
+      "_id": 158,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 158 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "330,439.19",
+      "alphachi": 86.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 474"
+    },
+    {
+      "_id": 159,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 159 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "186,307.84",
+      "alphachi": 33.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 477"
+    },
+    {
+      "_id": 160,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 160 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "199,282.33",
+      "alphachi": 53.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 480"
+    },
+    {
+      "_id": 161,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 161 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "106,838.48",
+      "alphachi": 53.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 483"
+    },
+    {
+      "_id": 162,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 162 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "149,862.07",
+      "alphachi": 20.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 486"
+    },
+    {
+      "_id": 163,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 163 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "398,755.71",
+      "alphachi": 70.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 489"
+    },
+    {
+      "_id": 164,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 164 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "358,508.61",
+      "alphachi": 57.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 492"
+    },
+    {
+      "_id": 165,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 165 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "129,072.72",
+      "alphachi": 70.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 495"
+    },
+    {
+      "_id": 166,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 166 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "330,085.81",
+      "alphachi": 17,
+      "rakusatsugyosha": "有限会社六ッ川建設 498"
+    },
+    {
+      "_id": 167,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 167 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "215,350.67",
+      "alphachi": 99.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 501"
+    },
+    {
+      "_id": 168,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 168 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,176.92",
+      "alphachi": 44.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 504"
+    },
+    {
+      "_id": 169,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 169 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "171,783.24",
+      "alphachi": 34.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 507"
+    },
+    {
+      "_id": 170,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 170 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "394,321.97",
+      "alphachi": 97.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 510"
+    },
+    {
+      "_id": 171,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 171 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "113,378.46",
+      "alphachi": 68.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 513"
+    },
+    {
+      "_id": 172,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 172 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "357,080.17",
+      "alphachi": 85.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 516"
+    },
+    {
+      "_id": 173,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 173 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "165,476.30",
+      "alphachi": 54,
+      "rakusatsugyosha": "有限会社六ッ川建設 519"
+    },
+    {
+      "_id": 174,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 174 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "104,519.62",
+      "alphachi": 93.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 522"
+    },
+    {
+      "_id": 175,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 175 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "348,476.53",
+      "alphachi": 39.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 525"
+    },
+    {
+      "_id": 176,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 176 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "360,696.14",
+      "alphachi": 58.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 528"
+    },
+    {
+      "_id": 177,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 177 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "194,172.40",
+      "alphachi": 8,
+      "rakusatsugyosha": "有限会社六ッ川建設 531"
+    },
+    {
+      "_id": 178,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 178 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "164,723.79",
+      "alphachi": 14.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 534"
+    },
+    {
+      "_id": 179,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 179 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "252,480.28",
+      "alphachi": 42.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 537"
+    },
+    {
+      "_id": 180,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 180 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "200,338.28",
+      "alphachi": 31,
+      "rakusatsugyosha": "有限会社六ッ川建設 540"
+    },
+    {
+      "_id": 181,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 181 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "398,808.71",
+      "alphachi": 94.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 543"
+    },
+    {
+      "_id": 182,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 182 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "314,482.48",
+      "alphachi": 49.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 546"
+    },
+    {
+      "_id": 183,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 183 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,845.05",
+      "alphachi": 7.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 549"
+    },
+    {
+      "_id": 184,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 184 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "166,181.90",
+      "alphachi": 37.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 552"
+    },
+    {
+      "_id": 185,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 185 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "175,580.15",
+      "alphachi": 55.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 555"
+    },
+    {
+      "_id": 186,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 186 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "195,681.85",
+      "alphachi": 95.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 558"
+    },
+    {
+      "_id": 187,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 187 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "383,939.52",
+      "alphachi": 11.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 561"
+    },
+    {
+      "_id": 188,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 188 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "295,669.38",
+      "alphachi": 82.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 564"
+    },
+    {
+      "_id": 189,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 189 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "102,012.45",
+      "alphachi": 68.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 567"
+    },
+    {
+      "_id": 190,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 190 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "392,453.50",
+      "alphachi": 13.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 570"
+    },
+    {
+      "_id": 191,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 191 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "366,625.32",
+      "alphachi": 5.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 573"
+    },
+    {
+      "_id": 192,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 192 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "338,960.41",
+      "alphachi": 32.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 576"
+    },
+    {
+      "_id": 193,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 193 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "303,073.24",
+      "alphachi": 36.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 579"
+    },
+    {
+      "_id": 194,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 194 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "300,101.46",
+      "alphachi": 35,
+      "rakusatsugyosha": "有限会社六ッ川建設 582"
+    },
+    {
+      "_id": 195,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 195 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "322,624.25",
+      "alphachi": 17.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 585"
+    },
+    {
+      "_id": 196,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 196 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "274,058.20",
+      "alphachi": 35.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 588"
+    },
+    {
+      "_id": 197,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 197 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "207,238.38",
+      "alphachi": 60.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 591"
+    },
+    {
+      "_id": 198,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 198 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "157,029.70",
+      "alphachi": 81.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 594"
+    },
+    {
+      "_id": 199,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 199 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "295,529.58",
+      "alphachi": 14.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 597"
+    },
+    {
+      "_id": 200,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 200 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "218,025.17",
+      "alphachi": 18.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 600"
+    },
+    {
+      "_id": 201,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 201 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "339,549.93",
+      "alphachi": 96.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 603"
+    },
+    {
+      "_id": 202,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 202 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "305,338.68",
+      "alphachi": 23,
+      "rakusatsugyosha": "有限会社六ッ川建設 606"
+    },
+    {
+      "_id": 203,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 203 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "370,679.40",
+      "alphachi": 22.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 609"
+    },
+    {
+      "_id": 204,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 204 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "395,280.32",
+      "alphachi": 44.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 612"
+    },
+    {
+      "_id": 205,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 205 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "213,690.72",
+      "alphachi": 9.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 615"
+    },
+    {
+      "_id": 206,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 206 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "280,215.87",
+      "alphachi": 82,
+      "rakusatsugyosha": "有限会社六ッ川建設 618"
+    },
+    {
+      "_id": 207,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 207 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "386,634.55",
+      "alphachi": 88.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 621"
+    },
+    {
+      "_id": 208,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 208 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "112,783.02",
+      "alphachi": 88.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 624"
+    },
+    {
+      "_id": 209,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 209 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "309,335.74",
+      "alphachi": 25.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 627"
+    },
+    {
+      "_id": 210,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 210 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "274,731.62",
+      "alphachi": 63.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 630"
+    },
+    {
+      "_id": 211,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 211 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "192,716.97",
+      "alphachi": 83.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 633"
+    },
+    {
+      "_id": 212,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 212 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "140,368.34",
+      "alphachi": 80.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 636"
+    },
+    {
+      "_id": 213,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 213 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "249,268.74",
+      "alphachi": 24.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 639"
+    },
+    {
+      "_id": 214,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 214 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "309,586.02",
+      "alphachi": 47.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 642"
+    },
+    {
+      "_id": 215,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 215 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "218,529.92",
+      "alphachi": 97.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 645"
+    },
+    {
+      "_id": 216,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 216 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "108,264.40",
+      "alphachi": 26.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 648"
+    },
+    {
+      "_id": 217,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 217 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "146,620.45",
+      "alphachi": 59.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 651"
+    },
+    {
+      "_id": 218,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 218 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "318,710.69",
+      "alphachi": 60.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 654"
+    },
+    {
+      "_id": 219,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 219 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,078.34",
+      "alphachi": 4,
+      "rakusatsugyosha": "有限会社六ッ川建設 657"
+    },
+    {
+      "_id": 220,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 220 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "258,053.60",
+      "alphachi": 33,
+      "rakusatsugyosha": "有限会社六ッ川建設 660"
+    },
+    {
+      "_id": 221,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 221 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "351,059.31",
+      "alphachi": 82.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 663"
+    },
+    {
+      "_id": 222,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 222 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "335,991.30",
+      "alphachi": 71.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 666"
+    },
+    {
+      "_id": 223,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 223 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "326,861.45",
+      "alphachi": 47.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 669"
+    },
+    {
+      "_id": 224,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 224 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "102,240.74",
+      "alphachi": 30.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 672"
+    },
+    {
+      "_id": 225,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 225 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "291,707.24",
+      "alphachi": 38.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 675"
+    },
+    {
+      "_id": 226,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 226 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "289,692.70",
+      "alphachi": 52.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 678"
+    },
+    {
+      "_id": 227,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 227 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "161,093.03",
+      "alphachi": 80.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 681"
+    },
+    {
+      "_id": 228,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 228 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "256,811.72",
+      "alphachi": 80.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 684"
+    },
+    {
+      "_id": 229,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 229 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "274,239.66",
+      "alphachi": 51.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 687"
+    },
+    {
+      "_id": 230,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 230 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "234,939.16",
+      "alphachi": 5.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 690"
+    },
+    {
+      "_id": 231,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 231 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "181,411.52",
+      "alphachi": 43.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 693"
+    },
+    {
+      "_id": 232,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 232 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "185,340.25",
+      "alphachi": 91.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 696"
+    },
+    {
+      "_id": 233,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 233 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "264,836.20",
+      "alphachi": 5.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 699"
+    },
+    {
+      "_id": 234,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 234 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "171,545.34",
+      "alphachi": 81.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 702"
+    },
+    {
+      "_id": 235,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 235 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "261,513.77",
+      "alphachi": 68.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 705"
+    },
+    {
+      "_id": 236,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 236 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "134,987.70",
+      "alphachi": 72.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 708"
+    },
+    {
+      "_id": 237,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 237 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "336,890.18",
+      "alphachi": 74.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 711"
+    },
+    {
+      "_id": 238,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 238 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "189,438.34",
+      "alphachi": 79.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 714"
+    },
+    {
+      "_id": 239,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 239 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "351,173.76",
+      "alphachi": 36.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 717"
+    },
+    {
+      "_id": 240,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 240 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "356,169.52",
+      "alphachi": 72.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 720"
+    },
+    {
+      "_id": 241,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 241 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "142,412.38",
+      "alphachi": 70,
+      "rakusatsugyosha": "有限会社六ッ川建設 723"
+    },
+    {
+      "_id": 242,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 242 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "208,086.65",
+      "alphachi": 87.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 726"
+    },
+    {
+      "_id": 243,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 243 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "250,856.95",
+      "alphachi": 72.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 729"
+    },
+    {
+      "_id": 244,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 244 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "346,825.89",
+      "alphachi": 3.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 732"
+    },
+    {
+      "_id": 245,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 245 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "103,262.63",
+      "alphachi": 62,
+      "rakusatsugyosha": "有限会社六ッ川建設 735"
+    },
+    {
+      "_id": 246,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 246 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "241,160.83",
+      "alphachi": 49.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 738"
+    },
+    {
+      "_id": 247,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 247 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "253,287.08",
+      "alphachi": 28.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 741"
+    },
+    {
+      "_id": 248,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 248 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "218,710.62",
+      "alphachi": 20.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 744"
+    },
+    {
+      "_id": 249,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 249 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "279,478.76",
+      "alphachi": 63.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 747"
+    },
+    {
+      "_id": 250,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 250 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "162,468.47",
+      "alphachi": 8.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 750"
+    },
+    {
+      "_id": 251,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 251 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "120,407.22",
+      "alphachi": 54.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 753"
+    },
+    {
+      "_id": 252,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 252 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "325,909.36",
+      "alphachi": 90.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 756"
+    },
+    {
+      "_id": 253,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 253 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "230,621.80",
+      "alphachi": 63.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 759"
+    },
+    {
+      "_id": 254,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 254 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "279,829.07",
+      "alphachi": 84.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 762"
+    },
+    {
+      "_id": 255,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 255 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "170,384.00",
+      "alphachi": 38,
+      "rakusatsugyosha": "有限会社六ッ川建設 765"
+    },
+    {
+      "_id": 256,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 256 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "383,629.61",
+      "alphachi": 39.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 768"
+    },
+    {
+      "_id": 257,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 257 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "397,936.15",
+      "alphachi": 56.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 771"
+    },
+    {
+      "_id": 258,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 258 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "286,877.30",
+      "alphachi": 58.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 774"
+    },
+    {
+      "_id": 259,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 259 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "258,579.58",
+      "alphachi": 76.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 777"
+    },
+    {
+      "_id": 260,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 260 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "305,165.28",
+      "alphachi": 6.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 780"
+    },
+    {
+      "_id": 261,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 261 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "289,321.29",
+      "alphachi": 9.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 783"
+    },
+    {
+      "_id": 262,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 262 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "185,836.80",
+      "alphachi": 48.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 786"
+    },
+    {
+      "_id": 263,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 263 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "133,782.89",
+      "alphachi": 86.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 789"
+    },
+    {
+      "_id": 264,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 264 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "188,412.49",
+      "alphachi": 74.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 792"
+    },
+    {
+      "_id": 265,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 265 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "289,515.85",
+      "alphachi": 26.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 795"
+    },
+    {
+      "_id": 266,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 266 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "237,789.39",
+      "alphachi": 90.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 798"
+    },
+    {
+      "_id": 267,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 267 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "188,539.50",
+      "alphachi": 51.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 801"
+    },
+    {
+      "_id": 268,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 268 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,504.76",
+      "alphachi": 12.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 804"
+    },
+    {
+      "_id": 269,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 269 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "278,304.09",
+      "alphachi": 52.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 807"
+    },
+    {
+      "_id": 270,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 270 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "247,472.41",
+      "alphachi": 85.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 810"
+    },
+    {
+      "_id": 271,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 271 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "270,466.51",
+      "alphachi": 64,
+      "rakusatsugyosha": "有限会社六ッ川建設 813"
+    },
+    {
+      "_id": 272,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 272 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "235,210.77",
+      "alphachi": 3.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 816"
+    },
+    {
+      "_id": 273,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 273 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "193,213.39",
+      "alphachi": 31.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 819"
+    },
+    {
+      "_id": 274,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 274 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "271,193.66",
+      "alphachi": 18.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 822"
+    },
+    {
+      "_id": 275,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 275 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "203,286.57",
+      "alphachi": 17.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 825"
+    },
+    {
+      "_id": 276,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 276 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "166,786.94",
+      "alphachi": 46.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 828"
+    },
+    {
+      "_id": 277,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 277 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "231,256.55",
+      "alphachi": 43.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 831"
+    },
+    {
+      "_id": 278,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 278 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "201,483.78",
+      "alphachi": 11.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 834"
+    },
+    {
+      "_id": 279,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 279 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "241,509.71",
+      "alphachi": 87,
+      "rakusatsugyosha": "有限会社六ッ川建設 837"
+    },
+    {
+      "_id": 280,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 280 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "354,328.47",
+      "alphachi": 99.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 840"
+    },
+    {
+      "_id": 281,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 281 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "249,226.32",
+      "alphachi": 58.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 843"
+    },
+    {
+      "_id": 282,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 282 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "385,346.17",
+      "alphachi": 91.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 846"
+    },
+    {
+      "_id": 283,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 283 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "166,880.10",
+      "alphachi": 14.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 849"
+    },
+    {
+      "_id": 284,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 284 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "398,581.65",
+      "alphachi": 94.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 852"
+    },
+    {
+      "_id": 285,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 285 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "232,188.36",
+      "alphachi": 68.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 855"
+    },
+    {
+      "_id": 286,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 286 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "384,838.13",
+      "alphachi": 72.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 858"
+    },
+    {
+      "_id": 287,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 287 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "144,305.10",
+      "alphachi": 4,
+      "rakusatsugyosha": "有限会社六ッ川建設 861"
+    },
+    {
+      "_id": 288,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 288 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "322,468.66",
+      "alphachi": 86.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 864"
+    },
+    {
+      "_id": 289,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 289 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "209,221.38",
+      "alphachi": 54.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 867"
+    },
+    {
+      "_id": 290,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 290 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "145,002.03",
+      "alphachi": 40,
+      "rakusatsugyosha": "有限会社六ッ川建設 870"
+    },
+    {
+      "_id": 291,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 291 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "230,768.71",
+      "alphachi": 7.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 873"
+    },
+    {
+      "_id": 292,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 292 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "239,682.33",
+      "alphachi": 44.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 876"
+    },
+    {
+      "_id": 293,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 293 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "264,597.89",
+      "alphachi": 9.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 879"
+    },
+    {
+      "_id": 294,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 294 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "223,523.84",
+      "alphachi": 98.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 882"
+    },
+    {
+      "_id": 295,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 295 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "342,911.59",
+      "alphachi": 2.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 885"
+    },
+    {
+      "_id": 296,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 296 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "161,957.99",
+      "alphachi": 42.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 888"
+    },
+    {
+      "_id": 297,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 297 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "224,770.90",
+      "alphachi": 29.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 891"
+    },
+    {
+      "_id": 298,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 298 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "398,117.02",
+      "alphachi": 19.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 894"
+    },
+    {
+      "_id": 299,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 299 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "297,736.79",
+      "alphachi": 32,
+      "rakusatsugyosha": "有限会社六ッ川建設 897"
+    },
+    {
+      "_id": 300,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 300 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "175,079.17",
+      "alphachi": 58.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 900"
+    },
+    {
+      "_id": 301,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 301 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "327,394.47",
+      "alphachi": 40.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 903"
+    },
+    {
+      "_id": 302,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 302 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "220,101.33",
+      "alphachi": 40.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 906"
+    },
+    {
+      "_id": 303,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 303 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "275,922.57",
+      "alphachi": 55.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 909"
+    },
+    {
+      "_id": 304,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 304 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "184,465.85",
+      "alphachi": 28.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 912"
+    },
+    {
+      "_id": 305,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 305 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "172,461.74",
+      "alphachi": 15.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 915"
+    },
+    {
+      "_id": 306,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 306 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "375,049.95",
+      "alphachi": 71.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 918"
+    },
+    {
+      "_id": 307,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 307 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "180,655.24",
+      "alphachi": 5,
+      "rakusatsugyosha": "有限会社六ッ川建設 921"
+    },
+    {
+      "_id": 308,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 308 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "288,480.44",
+      "alphachi": 42.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 924"
+    },
+    {
+      "_id": 309,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 309 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "324,759.69",
+      "alphachi": 20.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 927"
+    },
+    {
+      "_id": 310,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 310 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "242,865.47",
+      "alphachi": 25.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 930"
+    },
+    {
+      "_id": 311,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 311 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "112,341.64",
+      "alphachi": 73.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 933"
+    },
+    {
+      "_id": 312,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 312 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "246,890.88",
+      "alphachi": 54.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 936"
+    },
+    {
+      "_id": 313,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 313 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "248,315.13",
+      "alphachi": 40,
+      "rakusatsugyosha": "有限会社六ッ川建設 939"
+    },
+    {
+      "_id": 314,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 314 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "325,028.21",
+      "alphachi": 97,
+      "rakusatsugyosha": "有限会社六ッ川建設 942"
+    },
+    {
+      "_id": 315,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 315 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "175,723.67",
+      "alphachi": 49.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 945"
+    },
+    {
+      "_id": 316,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 316 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "366,211.10",
+      "alphachi": 13.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 948"
+    },
+    {
+      "_id": 317,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 317 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "341,670.08",
+      "alphachi": 98,
+      "rakusatsugyosha": "有限会社六ッ川建設 951"
+    },
+    {
+      "_id": 318,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 318 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "226,252.27",
+      "alphachi": 99.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 954"
+    },
+    {
+      "_id": 319,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 319 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "186,248.71",
+      "alphachi": 14.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 957"
+    },
+    {
+      "_id": 320,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 320 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "163,410.54",
+      "alphachi": 76.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 960"
+    },
+    {
+      "_id": 321,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 321 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "294,703.82",
+      "alphachi": 80.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 963"
+    },
+    {
+      "_id": 322,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 322 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "301,954.70",
+      "alphachi": 59.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 966"
+    },
+    {
+      "_id": 323,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 323 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "222,979.26",
+      "alphachi": 83.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 969"
+    },
+    {
+      "_id": 324,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 324 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "294,319.75",
+      "alphachi": 6.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 972"
+    },
+    {
+      "_id": 325,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 325 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "210,175.31",
+      "alphachi": 12.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 975"
+    },
+    {
+      "_id": 326,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 326 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "183,339.81",
+      "alphachi": 91.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 978"
+    },
+    {
+      "_id": 327,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 327 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "161,408.16",
+      "alphachi": 70.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 981"
+    },
+    {
+      "_id": 328,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 328 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "235,698.85",
+      "alphachi": 35.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 984"
+    },
+    {
+      "_id": 329,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 329 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "327,955.54",
+      "alphachi": 22.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 987"
+    },
+    {
+      "_id": 330,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 330 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "136,793.03",
+      "alphachi": 13.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 990"
+    },
+    {
+      "_id": 331,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 331 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "332,710.07",
+      "alphachi": 34.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 993"
+    },
+    {
+      "_id": 332,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 332 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "320,765.73",
+      "alphachi": 96.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 996"
+    },
+    {
+      "_id": 333,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 333 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "204,193.02",
+      "alphachi": 71.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 999"
+    },
+    {
+      "_id": 334,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 334 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "252,493.18",
+      "alphachi": 53,
+      "rakusatsugyosha": "有限会社六ッ川建設 1002"
+    },
+    {
+      "_id": 335,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 335 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "368,093.76",
+      "alphachi": 84.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1005"
+    },
+    {
+      "_id": 336,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 336 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "245,358.79",
+      "alphachi": 97.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1008"
+    },
+    {
+      "_id": 337,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 337 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "238,150.71",
+      "alphachi": 27.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1011"
+    },
+    {
+      "_id": 338,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 338 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "191,859.49",
+      "alphachi": 77.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1014"
+    },
+    {
+      "_id": 339,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 339 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "130,581.99",
+      "alphachi": 67.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1017"
+    },
+    {
+      "_id": 340,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 340 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "292,685.79",
+      "alphachi": 4.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1020"
+    },
+    {
+      "_id": 341,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 341 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,325.19",
+      "alphachi": 9.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1023"
+    },
+    {
+      "_id": 342,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 342 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "256,595.61",
+      "alphachi": 76.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1026"
+    },
+    {
+      "_id": 343,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 343 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "162,521.38",
+      "alphachi": 58.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1029"
+    },
+    {
+      "_id": 344,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 344 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "174,808.62",
+      "alphachi": 31.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1032"
+    },
+    {
+      "_id": 345,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 345 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "133,546.61",
+      "alphachi": 6.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1035"
+    },
+    {
+      "_id": 346,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 346 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "297,848.03",
+      "alphachi": 30.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1038"
+    },
+    {
+      "_id": 347,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 347 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "264,966.24",
+      "alphachi": 29.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1041"
+    },
+    {
+      "_id": 348,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 348 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "132,767.57",
+      "alphachi": 3.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1044"
+    },
+    {
+      "_id": 349,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 349 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "238,085.21",
+      "alphachi": 74.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1047"
+    },
+    {
+      "_id": 350,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 350 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "338,686.31",
+      "alphachi": 12.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1050"
+    },
+    {
+      "_id": 351,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 351 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "284,301.64",
+      "alphachi": 55.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1053"
+    },
+    {
+      "_id": 352,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 352 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "159,519.01",
+      "alphachi": 89.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1056"
+    },
+    {
+      "_id": 353,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 353 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "195,204.81",
+      "alphachi": 46.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1059"
+    },
+    {
+      "_id": 354,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 354 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "244,687.63",
+      "alphachi": 33.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1062"
+    },
+    {
+      "_id": 355,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 355 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "193,124.45",
+      "alphachi": 52.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1065"
+    },
+    {
+      "_id": 356,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 356 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "331,047.46",
+      "alphachi": 73.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1068"
+    },
+    {
+      "_id": 357,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 357 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "319,916.89",
+      "alphachi": 90.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1071"
+    },
+    {
+      "_id": 358,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 358 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "344,963.42",
+      "alphachi": 34.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1074"
+    },
+    {
+      "_id": 359,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 359 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "267,941.44",
+      "alphachi": 36.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1077"
+    },
+    {
+      "_id": 360,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 360 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "258,514.24",
+      "alphachi": 51.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1080"
+    },
+    {
+      "_id": 361,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 361 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "339,146.50",
+      "alphachi": 52.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1083"
+    },
+    {
+      "_id": 362,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 362 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "125,224.32",
+      "alphachi": 25.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1086"
+    },
+    {
+      "_id": 363,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 363 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "298,409.33",
+      "alphachi": 25.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1089"
+    },
+    {
+      "_id": 364,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 364 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,874.52",
+      "alphachi": 4.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1092"
+    },
+    {
+      "_id": 365,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 365 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "162,783.15",
+      "alphachi": 5.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1095"
+    },
+    {
+      "_id": 366,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 366 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "207,451.09",
+      "alphachi": 96.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1098"
+    },
+    {
+      "_id": 367,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 367 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "301,970.56",
+      "alphachi": 60.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1101"
+    },
+    {
+      "_id": 368,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 368 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "307,585.18",
+      "alphachi": 36.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1104"
+    },
+    {
+      "_id": 369,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 369 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "171,823.11",
+      "alphachi": 11.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1107"
+    },
+    {
+      "_id": 370,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 370 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "107,970.63",
+      "alphachi": 54.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1110"
+    },
+    {
+      "_id": 371,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 371 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "189,014.32",
+      "alphachi": 82.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1113"
+    },
+    {
+      "_id": 372,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 372 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "197,383.63",
+      "alphachi": 2.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1116"
+    },
+    {
+      "_id": 373,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 373 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "232,935.25",
+      "alphachi": 60.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1119"
+    },
+    {
+      "_id": 374,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 374 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "251,493.25",
+      "alphachi": 55.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1122"
+    },
+    {
+      "_id": 375,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 375 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "209,830.85",
+      "alphachi": 24.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1125"
+    },
+    {
+      "_id": 376,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 376 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "278,989.64",
+      "alphachi": 85.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1128"
+    },
+    {
+      "_id": 377,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 377 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "201,381.28",
+      "alphachi": 14.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1131"
+    },
+    {
+      "_id": 378,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 378 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "163,271.14",
+      "alphachi": 82.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1134"
+    },
+    {
+      "_id": 379,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 379 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "271,442.63",
+      "alphachi": 30.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1137"
+    },
+    {
+      "_id": 380,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 380 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "385,760.63",
+      "alphachi": 26.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1140"
+    },
+    {
+      "_id": 381,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 381 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "228,746.89",
+      "alphachi": 95,
+      "rakusatsugyosha": "有限会社六ッ川建設 1143"
+    },
+    {
+      "_id": 382,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 382 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "318,608.27",
+      "alphachi": 57.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1146"
+    },
+    {
+      "_id": 383,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 383 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "241,023.41",
+      "alphachi": 47.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1149"
+    },
+    {
+      "_id": 384,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 384 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "291,853.93",
+      "alphachi": 85.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1152"
+    },
+    {
+      "_id": 385,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 385 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "161,464.62",
+      "alphachi": 5.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1155"
+    },
+    {
+      "_id": 386,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 386 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "165,946.76",
+      "alphachi": 50.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1158"
+    },
+    {
+      "_id": 387,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 387 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "116,835.34",
+      "alphachi": 43.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1161"
+    },
+    {
+      "_id": 388,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 388 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "309,783.22",
+      "alphachi": 85.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1164"
+    },
+    {
+      "_id": 389,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 389 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "347,544.17",
+      "alphachi": 59.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1167"
+    },
+    {
+      "_id": 390,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 390 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "189,313.34",
+      "alphachi": 20.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1170"
+    },
+    {
+      "_id": 391,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 391 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "293,145.62",
+      "alphachi": 54.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1173"
+    },
+    {
+      "_id": 392,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 392 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "159,978.49",
+      "alphachi": 93.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1176"
+    },
+    {
+      "_id": 393,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 393 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "165,101.57",
+      "alphachi": 92.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1179"
+    },
+    {
+      "_id": 394,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 394 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "102,815.06",
+      "alphachi": 15.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1182"
+    },
+    {
+      "_id": 395,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 395 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "340,641.00",
+      "alphachi": 20.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1185"
+    },
+    {
+      "_id": 396,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 396 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "143,835.55",
+      "alphachi": 81.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1188"
+    },
+    {
+      "_id": 397,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 397 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "146,094.29",
+      "alphachi": 3.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1191"
+    },
+    {
+      "_id": 398,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 398 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "159,975.34",
+      "alphachi": 8.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1194"
+    },
+    {
+      "_id": 399,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 399 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "130,047.15",
+      "alphachi": 22.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1197"
+    },
+    {
+      "_id": 400,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 400 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "178,195.39",
+      "alphachi": 6.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1200"
+    },
+    {
+      "_id": 401,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 401 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "362,569.66",
+      "alphachi": 16.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1203"
+    },
+    {
+      "_id": 402,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 402 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "224,583.98",
+      "alphachi": 94,
+      "rakusatsugyosha": "有限会社六ッ川建設 1206"
+    },
+    {
+      "_id": 403,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 403 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "225,956.78",
+      "alphachi": 91.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1209"
+    },
+    {
+      "_id": 404,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 404 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "148,385.07",
+      "alphachi": 60,
+      "rakusatsugyosha": "有限会社六ッ川建設 1212"
+    },
+    {
+      "_id": 405,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 405 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "202,512.63",
+      "alphachi": 10.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1215"
+    },
+    {
+      "_id": 406,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 406 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "397,776.51",
+      "alphachi": 76.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1218"
+    },
+    {
+      "_id": 407,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 407 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,776.64",
+      "alphachi": 24.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1221"
+    },
+    {
+      "_id": 408,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 408 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "338,660.99",
+      "alphachi": 95.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1224"
+    },
+    {
+      "_id": 409,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 409 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "126,230.04",
+      "alphachi": 46.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1227"
+    },
+    {
+      "_id": 410,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 410 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "291,161.89",
+      "alphachi": 86.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1230"
+    },
+    {
+      "_id": 411,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 411 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "218,438.95",
+      "alphachi": 74.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1233"
+    },
+    {
+      "_id": 412,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 412 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "258,133.40",
+      "alphachi": 38.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1236"
+    },
+    {
+      "_id": 413,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 413 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "354,448.81",
+      "alphachi": 90,
+      "rakusatsugyosha": "有限会社六ッ川建設 1239"
+    },
+    {
+      "_id": 414,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 414 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "281,645.62",
+      "alphachi": 9.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1242"
+    },
+    {
+      "_id": 415,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 415 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "261,182.74",
+      "alphachi": 80.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1245"
+    },
+    {
+      "_id": 416,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 416 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "240,388.54",
+      "alphachi": 82.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1248"
+    },
+    {
+      "_id": 417,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 417 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "376,892.96",
+      "alphachi": 14.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1251"
+    },
+    {
+      "_id": 418,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 418 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "155,449.34",
+      "alphachi": 42.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1254"
+    },
+    {
+      "_id": 419,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 419 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "393,072.14",
+      "alphachi": 19,
+      "rakusatsugyosha": "有限会社六ッ川建設 1257"
+    },
+    {
+      "_id": 420,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 420 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "280,488.40",
+      "alphachi": 21.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1260"
+    },
+    {
+      "_id": 421,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 421 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "176,171.98",
+      "alphachi": 92.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1263"
+    },
+    {
+      "_id": 422,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 422 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "386,305.80",
+      "alphachi": 34.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1266"
+    },
+    {
+      "_id": 423,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 423 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "202,676.57",
+      "alphachi": 49.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1269"
+    },
+    {
+      "_id": 424,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 424 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "211,226.54",
+      "alphachi": 30,
+      "rakusatsugyosha": "有限会社六ッ川建設 1272"
+    },
+    {
+      "_id": 425,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 425 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "133,743.55",
+      "alphachi": 86.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1275"
+    },
+    {
+      "_id": 426,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 426 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "336,359.41",
+      "alphachi": 19.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1278"
+    },
+    {
+      "_id": 427,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 427 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "207,068.66",
+      "alphachi": 74.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1281"
+    },
+    {
+      "_id": 428,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 428 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "152,724.42",
+      "alphachi": 4.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1284"
+    },
+    {
+      "_id": 429,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 429 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "219,919.43",
+      "alphachi": 81.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1287"
+    },
+    {
+      "_id": 430,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 430 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "399,814.12",
+      "alphachi": 68.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1290"
+    },
+    {
+      "_id": 431,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 431 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "302,437.97",
+      "alphachi": 18.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1293"
+    },
+    {
+      "_id": 432,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 432 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "259,343.08",
+      "alphachi": 45.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1296"
+    },
+    {
+      "_id": 433,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 433 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "243,853.58",
+      "alphachi": 83,
+      "rakusatsugyosha": "有限会社六ッ川建設 1299"
+    },
+    {
+      "_id": 434,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 434 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "242,509.01",
+      "alphachi": 65.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1302"
+    },
+    {
+      "_id": 435,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 435 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "244,994.95",
+      "alphachi": 89.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1305"
+    },
+    {
+      "_id": 436,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 436 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "284,399.87",
+      "alphachi": 60.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1308"
+    },
+    {
+      "_id": 437,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 437 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "396,743.44",
+      "alphachi": 77.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1311"
+    },
+    {
+      "_id": 438,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 438 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "238,775.22",
+      "alphachi": 92.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1314"
+    },
+    {
+      "_id": 439,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 439 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,690.11",
+      "alphachi": 46.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1317"
+    },
+    {
+      "_id": 440,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 440 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "295,855.85",
+      "alphachi": 88.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1320"
+    },
+    {
+      "_id": 441,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 441 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "268,822.20",
+      "alphachi": 24.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1323"
+    },
+    {
+      "_id": 442,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 442 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "114,408.99",
+      "alphachi": 16.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1326"
+    },
+    {
+      "_id": 443,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 443 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "332,341.31",
+      "alphachi": 87.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1329"
+    },
+    {
+      "_id": 444,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 444 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "179,718.16",
+      "alphachi": 31.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1332"
+    },
+    {
+      "_id": 445,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 445 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "194,820.89",
+      "alphachi": 49.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1335"
+    },
+    {
+      "_id": 446,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 446 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "260,670.57",
+      "alphachi": 31.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1338"
+    },
+    {
+      "_id": 447,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 447 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "294,970.29",
+      "alphachi": 1.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1341"
+    },
+    {
+      "_id": 448,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 448 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "135,562.32",
+      "alphachi": 59.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1344"
+    },
+    {
+      "_id": 449,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 449 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "219,206.77",
+      "alphachi": 15.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1347"
+    },
+    {
+      "_id": 450,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 450 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "161,182.70",
+      "alphachi": 17,
+      "rakusatsugyosha": "有限会社六ッ川建設 1350"
+    },
+    {
+      "_id": 451,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 451 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "377,133.99",
+      "alphachi": 22.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1353"
+    },
+    {
+      "_id": 452,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 452 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "326,869.83",
+      "alphachi": 17.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1356"
+    },
+    {
+      "_id": 453,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 453 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "375,677.73",
+      "alphachi": 68.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1359"
+    },
+    {
+      "_id": 454,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 454 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "358,709.99",
+      "alphachi": 1.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1362"
+    },
+    {
+      "_id": 455,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 455 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "244,685.39",
+      "alphachi": 44.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1365"
+    },
+    {
+      "_id": 456,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 456 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "284,834.26",
+      "alphachi": 96.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1368"
+    },
+    {
+      "_id": 457,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 457 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "190,150.26",
+      "alphachi": 31.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1371"
+    },
+    {
+      "_id": 458,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 458 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "377,579.67",
+      "alphachi": 98.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1374"
+    },
+    {
+      "_id": 459,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 459 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "317,071.70",
+      "alphachi": 37.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1377"
+    },
+    {
+      "_id": 460,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 460 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "364,908.70",
+      "alphachi": 62.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1380"
+    },
+    {
+      "_id": 461,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 461 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "352,559.40",
+      "alphachi": 7.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1383"
+    },
+    {
+      "_id": 462,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 462 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "342,933.58",
+      "alphachi": 50.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1386"
+    },
+    {
+      "_id": 463,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 463 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "375,198.86",
+      "alphachi": 1.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1389"
+    },
+    {
+      "_id": 464,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 464 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "392,570.40",
+      "alphachi": 77.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1392"
+    },
+    {
+      "_id": 465,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 465 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "332,632.25",
+      "alphachi": 19,
+      "rakusatsugyosha": "有限会社六ッ川建設 1395"
+    },
+    {
+      "_id": 466,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 466 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,891.51",
+      "alphachi": 34.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1398"
+    },
+    {
+      "_id": 467,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 467 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "262,185.11",
+      "alphachi": 58.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1401"
+    },
+    {
+      "_id": 468,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 468 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "213,005.02",
+      "alphachi": 68,
+      "rakusatsugyosha": "有限会社六ッ川建設 1404"
+    },
+    {
+      "_id": 469,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 469 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "392,539.25",
+      "alphachi": 59.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1407"
+    },
+    {
+      "_id": 470,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 470 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "378,865.22",
+      "alphachi": 43.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1410"
+    },
+    {
+      "_id": 471,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 471 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "211,177.59",
+      "alphachi": 10,
+      "rakusatsugyosha": "有限会社六ッ川建設 1413"
+    },
+    {
+      "_id": 472,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 472 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "306,628.76",
+      "alphachi": 9.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1416"
+    },
+    {
+      "_id": 473,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 473 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "125,779.80",
+      "alphachi": 58.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1419"
+    },
+    {
+      "_id": 474,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 474 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "179,411.97",
+      "alphachi": 60.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1422"
+    },
+    {
+      "_id": 475,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 475 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "224,801.42",
+      "alphachi": 77.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1425"
+    },
+    {
+      "_id": 476,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 476 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "314,434.82",
+      "alphachi": 43.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1428"
+    },
+    {
+      "_id": 477,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 477 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "339,485.12",
+      "alphachi": 98,
+      "rakusatsugyosha": "有限会社六ッ川建設 1431"
+    },
+    {
+      "_id": 478,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 478 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,314.91",
+      "alphachi": 43.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1434"
+    },
+    {
+      "_id": 479,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 479 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,113.04",
+      "alphachi": 8.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1437"
+    },
+    {
+      "_id": 480,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 480 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "335,747.39",
+      "alphachi": 7.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1440"
+    },
+    {
+      "_id": 481,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 481 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "197,000.50",
+      "alphachi": 16.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1443"
+    },
+    {
+      "_id": 482,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 482 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "266,462.86",
+      "alphachi": 28.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1446"
+    },
+    {
+      "_id": 483,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 483 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "205,821.57",
+      "alphachi": 36.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1449"
+    },
+    {
+      "_id": 484,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 484 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "317,735.93",
+      "alphachi": 5.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1452"
+    },
+    {
+      "_id": 485,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 485 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "342,116.02",
+      "alphachi": 69.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1455"
+    },
+    {
+      "_id": 486,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 486 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "251,651.53",
+      "alphachi": 94,
+      "rakusatsugyosha": "有限会社六ッ川建設 1458"
+    },
+    {
+      "_id": 487,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 487 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "361,676.95",
+      "alphachi": 53.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1461"
+    },
+    {
+      "_id": 488,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 488 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "134,202.89",
+      "alphachi": 31.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1464"
+    },
+    {
+      "_id": 489,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 489 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "199,232.58",
+      "alphachi": 36.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1467"
+    },
+    {
+      "_id": 490,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 490 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "251,691.24",
+      "alphachi": 61.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1470"
+    },
+    {
+      "_id": 491,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 491 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "279,757.48",
+      "alphachi": 85.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1473"
+    },
+    {
+      "_id": 492,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 492 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "368,308.55",
+      "alphachi": 15.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1476"
+    },
+    {
+      "_id": 493,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 493 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "339,436.48",
+      "alphachi": 70.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1479"
+    },
+    {
+      "_id": 494,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 494 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "395,381.29",
+      "alphachi": 73.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1482"
+    },
+    {
+      "_id": 495,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 495 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "281,463.92",
+      "alphachi": 46.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1485"
+    },
+    {
+      "_id": 496,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 496 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "355,786.96",
+      "alphachi": 14.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1488"
+    },
+    {
+      "_id": 497,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 497 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "313,558.25",
+      "alphachi": 24.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1491"
+    },
+    {
+      "_id": 498,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 498 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "204,108.68",
+      "alphachi": 79.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1494"
+    },
+    {
+      "_id": 499,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 499 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "242,416.86",
+      "alphachi": 85.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1497"
+    },
+    {
+      "_id": 500,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 500 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "112,278.85",
+      "alphachi": 21.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1500"
+    },
+    {
+      "_id": 501,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 501 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "196,347.68",
+      "alphachi": 2.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1503"
+    },
+    {
+      "_id": 502,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 502 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "271,096.28",
+      "alphachi": 76.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1506"
+    },
+    {
+      "_id": 503,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 503 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,682.41",
+      "alphachi": 48,
+      "rakusatsugyosha": "有限会社六ッ川建設 1509"
+    },
+    {
+      "_id": 504,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 504 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "391,228.24",
+      "alphachi": 30.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1512"
+    },
+    {
+      "_id": 505,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 505 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "108,829.71",
+      "alphachi": 74,
+      "rakusatsugyosha": "有限会社六ッ川建設 1515"
+    },
+    {
+      "_id": 506,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 506 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "168,215.14",
+      "alphachi": 37.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1518"
+    },
+    {
+      "_id": 507,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 507 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "139,149.49",
+      "alphachi": 50.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1521"
+    },
+    {
+      "_id": 508,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 508 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "268,420.17",
+      "alphachi": 38.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1524"
+    },
+    {
+      "_id": 509,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 509 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "126,374.76",
+      "alphachi": 43.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1527"
+    },
+    {
+      "_id": 510,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 510 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "341,151.22",
+      "alphachi": 83.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1530"
+    },
+    {
+      "_id": 511,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 511 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "104,373.75",
+      "alphachi": 27.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1533"
+    },
+    {
+      "_id": 512,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 512 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "204,487.92",
+      "alphachi": 15.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1536"
+    },
+    {
+      "_id": 513,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 513 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "183,817.71",
+      "alphachi": 73.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1539"
+    },
+    {
+      "_id": 514,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 514 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "169,403.94",
+      "alphachi": 85.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1542"
+    },
+    {
+      "_id": 515,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 515 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "149,685.77",
+      "alphachi": 73.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1545"
+    },
+    {
+      "_id": 516,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 516 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "338,962.70",
+      "alphachi": 58.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1548"
+    },
+    {
+      "_id": 517,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 517 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "352,944.10",
+      "alphachi": 5.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1551"
+    },
+    {
+      "_id": 518,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 518 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "194,120.06",
+      "alphachi": 39.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1554"
+    },
+    {
+      "_id": 519,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 519 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "245,160.23",
+      "alphachi": 60,
+      "rakusatsugyosha": "有限会社六ッ川建設 1557"
+    },
+    {
+      "_id": 520,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 520 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "197,924.54",
+      "alphachi": 18.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1560"
+    },
+    {
+      "_id": 521,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 521 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "176,544.60",
+      "alphachi": 14.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1563"
+    },
+    {
+      "_id": 522,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 522 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,268.21",
+      "alphachi": 61.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1566"
+    },
+    {
+      "_id": 523,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 523 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "134,310.67",
+      "alphachi": 69.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1569"
+    },
+    {
+      "_id": 524,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 524 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "146,952.80",
+      "alphachi": 67.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1572"
+    },
+    {
+      "_id": 525,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 525 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "110,182.79",
+      "alphachi": 40.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1575"
+    },
+    {
+      "_id": 526,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 526 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "375,429.13",
+      "alphachi": 39.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1578"
+    },
+    {
+      "_id": 527,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 527 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "154,520.35",
+      "alphachi": 99.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1581"
+    },
+    {
+      "_id": 528,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 528 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "340,724.04",
+      "alphachi": 9.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1584"
+    },
+    {
+      "_id": 529,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 529 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "267,126.31",
+      "alphachi": 89,
+      "rakusatsugyosha": "有限会社六ッ川建設 1587"
+    },
+    {
+      "_id": 530,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 530 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "279,948.65",
+      "alphachi": 82.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1590"
+    },
+    {
+      "_id": 531,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 531 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "190,958.53",
+      "alphachi": 21.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1593"
+    },
+    {
+      "_id": 532,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 532 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "326,366.38",
+      "alphachi": 34.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1596"
+    },
+    {
+      "_id": 533,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 533 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "367,051.62",
+      "alphachi": 23.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1599"
+    },
+    {
+      "_id": 534,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 534 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "377,220.73",
+      "alphachi": 45.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1602"
+    },
+    {
+      "_id": 535,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 535 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,701.73",
+      "alphachi": 36.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1605"
+    },
+    {
+      "_id": 536,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 536 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "389,350.16",
+      "alphachi": 93.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1608"
+    },
+    {
+      "_id": 537,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 537 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "386,670.17",
+      "alphachi": 86.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1611"
+    },
+    {
+      "_id": 538,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 538 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "220,290.29",
+      "alphachi": 65.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1614"
+    },
+    {
+      "_id": 539,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 539 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,604.00",
+      "alphachi": 84.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1617"
+    },
+    {
+      "_id": 540,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 540 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "298,694.20",
+      "alphachi": 49.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1620"
+    },
+    {
+      "_id": 541,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 541 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "165,832.85",
+      "alphachi": 72.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1623"
+    },
+    {
+      "_id": 542,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 542 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,102.38",
+      "alphachi": 78,
+      "rakusatsugyosha": "有限会社六ッ川建設 1626"
+    },
+    {
+      "_id": 543,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 543 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "300,231.29",
+      "alphachi": 38.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1629"
+    },
+    {
+      "_id": 544,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 544 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "249,522.20",
+      "alphachi": 61.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1632"
+    },
+    {
+      "_id": 545,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 545 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "267,264.29",
+      "alphachi": 38.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1635"
+    },
+    {
+      "_id": 546,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 546 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "203,865.96",
+      "alphachi": 54.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1638"
+    },
+    {
+      "_id": 547,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 547 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "200,912.37",
+      "alphachi": 50.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1641"
+    },
+    {
+      "_id": 548,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 548 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "101,705.64",
+      "alphachi": 88,
+      "rakusatsugyosha": "有限会社六ッ川建設 1644"
+    },
+    {
+      "_id": 549,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 549 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "195,724.95",
+      "alphachi": 16.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1647"
+    },
+    {
+      "_id": 550,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 550 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "220,099.06",
+      "alphachi": 8.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1650"
+    },
+    {
+      "_id": 551,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 551 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,671.98",
+      "alphachi": 17.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1653"
+    },
+    {
+      "_id": 552,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 552 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "371,029.21",
+      "alphachi": 12.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1656"
+    },
+    {
+      "_id": 553,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 553 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "186,940.11",
+      "alphachi": 31.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1659"
+    },
+    {
+      "_id": 554,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 554 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "320,733.28",
+      "alphachi": 9.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1662"
+    },
+    {
+      "_id": 555,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 555 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "348,801.69",
+      "alphachi": 75.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1665"
+    },
+    {
+      "_id": 556,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 556 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "308,632.26",
+      "alphachi": 94.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1668"
+    },
+    {
+      "_id": 557,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 557 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "130,550.33",
+      "alphachi": 55.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1671"
+    },
+    {
+      "_id": 558,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 558 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "140,612.78",
+      "alphachi": 97.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1674"
+    },
+    {
+      "_id": 559,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 559 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "173,390.92",
+      "alphachi": 26.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1677"
+    },
+    {
+      "_id": 560,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 560 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,390.29",
+      "alphachi": 11.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1680"
+    },
+    {
+      "_id": 561,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 561 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "160,784.35",
+      "alphachi": 98.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1683"
+    },
+    {
+      "_id": 562,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 562 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "147,835.47",
+      "alphachi": 92.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1686"
+    },
+    {
+      "_id": 563,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 563 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "390,503.74",
+      "alphachi": 21.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1689"
+    },
+    {
+      "_id": 564,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 564 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "396,759.83",
+      "alphachi": 17.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1692"
+    },
+    {
+      "_id": 565,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 565 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "272,721.86",
+      "alphachi": 29.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1695"
+    },
+    {
+      "_id": 566,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 566 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "301,769.58",
+      "alphachi": 11.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1698"
+    },
+    {
+      "_id": 567,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 567 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "356,252.83",
+      "alphachi": 98.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1701"
+    },
+    {
+      "_id": 568,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 568 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "330,751.84",
+      "alphachi": 57.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1704"
+    },
+    {
+      "_id": 569,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 569 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "248,488.96",
+      "alphachi": 46.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1707"
+    },
+    {
+      "_id": 570,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 570 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "155,559.92",
+      "alphachi": 58,
+      "rakusatsugyosha": "有限会社六ッ川建設 1710"
+    },
+    {
+      "_id": 571,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 571 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "131,744.57",
+      "alphachi": 16.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1713"
+    },
+    {
+      "_id": 572,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 572 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "141,383.73",
+      "alphachi": 52.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1716"
+    },
+    {
+      "_id": 573,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 573 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "318,670.78",
+      "alphachi": 69.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1719"
+    },
+    {
+      "_id": 574,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 574 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "274,929.01",
+      "alphachi": 12.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1722"
+    },
+    {
+      "_id": 575,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 575 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "366,530.27",
+      "alphachi": 56.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1725"
+    },
+    {
+      "_id": 576,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 576 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "372,244.31",
+      "alphachi": 42.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1728"
+    },
+    {
+      "_id": 577,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 577 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "184,546.33",
+      "alphachi": 95.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1731"
+    },
+    {
+      "_id": 578,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 578 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "399,601.97",
+      "alphachi": 17.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1734"
+    },
+    {
+      "_id": 579,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 579 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "265,808.81",
+      "alphachi": 76.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1737"
+    },
+    {
+      "_id": 580,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 580 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "307,865.69",
+      "alphachi": 61.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1740"
+    },
+    {
+      "_id": 581,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 581 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "182,060.52",
+      "alphachi": 50.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1743"
+    },
+    {
+      "_id": 582,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 582 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "129,964.49",
+      "alphachi": 46.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1746"
+    },
+    {
+      "_id": 583,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 583 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "291,792.67",
+      "alphachi": 19.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1749"
+    },
+    {
+      "_id": 584,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 584 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "157,312.46",
+      "alphachi": 3.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1752"
+    },
+    {
+      "_id": 585,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 585 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "310,705.88",
+      "alphachi": 18.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1755"
+    },
+    {
+      "_id": 586,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 586 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "342,791.50",
+      "alphachi": 4.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1758"
+    },
+    {
+      "_id": 587,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 587 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "334,766.68",
+      "alphachi": 33.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1761"
+    },
+    {
+      "_id": 588,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 588 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "361,968.72",
+      "alphachi": 98,
+      "rakusatsugyosha": "有限会社六ッ川建設 1764"
+    },
+    {
+      "_id": 589,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 589 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "131,571.82",
+      "alphachi": 27.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1767"
+    },
+    {
+      "_id": 590,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 590 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "369,568.12",
+      "alphachi": 8.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1770"
+    },
+    {
+      "_id": 591,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 591 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "218,468.29",
+      "alphachi": 36.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1773"
+    },
+    {
+      "_id": 592,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 592 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "252,925.70",
+      "alphachi": 71.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1776"
+    },
+    {
+      "_id": 593,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 593 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "393,592.77",
+      "alphachi": 26.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1779"
+    },
+    {
+      "_id": 594,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 594 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "243,760.46",
+      "alphachi": 32.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1782"
+    },
+    {
+      "_id": 595,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 595 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "307,042.88",
+      "alphachi": 40.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1785"
+    },
+    {
+      "_id": 596,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 596 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "379,802.94",
+      "alphachi": 52.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1788"
+    },
+    {
+      "_id": 597,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 597 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "211,055.26",
+      "alphachi": 15,
+      "rakusatsugyosha": "有限会社六ッ川建設 1791"
+    },
+    {
+      "_id": 598,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 598 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "130,018.08",
+      "alphachi": 32,
+      "rakusatsugyosha": "有限会社六ッ川建設 1794"
+    },
+    {
+      "_id": 599,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 599 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "173,991.32",
+      "alphachi": 15.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1797"
+    },
+    {
+      "_id": 600,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 600 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "204,781.72",
+      "alphachi": 5.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1800"
+    },
+    {
+      "_id": 601,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 601 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "257,832.55",
+      "alphachi": 95.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1803"
+    },
+    {
+      "_id": 602,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 602 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "269,799.24",
+      "alphachi": 98.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1806"
+    },
+    {
+      "_id": 603,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 603 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "195,058.14",
+      "alphachi": 97.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1809"
+    },
+    {
+      "_id": 604,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 604 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "171,032.89",
+      "alphachi": 41.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1812"
+    },
+    {
+      "_id": 605,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 605 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "116,691.68",
+      "alphachi": 87.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1815"
+    },
+    {
+      "_id": 606,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 606 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "319,384.01",
+      "alphachi": 78,
+      "rakusatsugyosha": "有限会社六ッ川建設 1818"
+    },
+    {
+      "_id": 607,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 607 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "297,718.39",
+      "alphachi": 61.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1821"
+    },
+    {
+      "_id": 608,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 608 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "271,939.42",
+      "alphachi": 11.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1824"
+    },
+    {
+      "_id": 609,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 609 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "360,568.97",
+      "alphachi": 67.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1827"
+    },
+    {
+      "_id": 610,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 610 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "171,968.90",
+      "alphachi": 41.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1830"
+    },
+    {
+      "_id": 611,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 611 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "184,582.03",
+      "alphachi": 13,
+      "rakusatsugyosha": "有限会社六ッ川建設 1833"
+    },
+    {
+      "_id": 612,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 612 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "178,665.40",
+      "alphachi": 79.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1836"
+    },
+    {
+      "_id": 613,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 613 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "335,474.36",
+      "alphachi": 8.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1839"
+    },
+    {
+      "_id": 614,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 614 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "258,424.37",
+      "alphachi": 2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1842"
+    },
+    {
+      "_id": 615,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 615 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "108,933.56",
+      "alphachi": 54.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1845"
+    },
+    {
+      "_id": 616,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 616 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "324,321.27",
+      "alphachi": 19.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1848"
+    },
+    {
+      "_id": 617,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 617 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "292,416.00",
+      "alphachi": 77.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1851"
+    },
+    {
+      "_id": 618,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 618 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "310,461.39",
+      "alphachi": 63.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1854"
+    },
+    {
+      "_id": 619,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 619 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "310,039.13",
+      "alphachi": 14.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1857"
+    },
+    {
+      "_id": 620,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 620 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "259,566.58",
+      "alphachi": 11.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1860"
+    },
+    {
+      "_id": 621,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 621 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "141,411.72",
+      "alphachi": 3.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1863"
+    },
+    {
+      "_id": 622,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 622 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "368,082.92",
+      "alphachi": 61.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1866"
+    },
+    {
+      "_id": 623,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 623 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "266,816.66",
+      "alphachi": 35.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1869"
+    },
+    {
+      "_id": 624,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 624 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "335,587.86",
+      "alphachi": 59.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1872"
+    },
+    {
+      "_id": 625,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 625 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "142,568.64",
+      "alphachi": 86.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1875"
+    },
+    {
+      "_id": 626,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 626 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "199,369.61",
+      "alphachi": 57.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1878"
+    },
+    {
+      "_id": 627,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 627 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "231,074.43",
+      "alphachi": 23.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1881"
+    },
+    {
+      "_id": 628,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 628 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "280,707.25",
+      "alphachi": 32.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1884"
+    },
+    {
+      "_id": 629,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 629 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "261,104.21",
+      "alphachi": 16.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1887"
+    },
+    {
+      "_id": 630,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 630 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "378,639.69",
+      "alphachi": 5.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 1890"
+    },
+    {
+      "_id": 631,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 631 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "174,234.17",
+      "alphachi": 19,
+      "rakusatsugyosha": "有限会社六ッ川建設 1893"
+    },
+    {
+      "_id": 632,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 632 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "392,484.88",
+      "alphachi": 44,
+      "rakusatsugyosha": "有限会社六ッ川建設 1896"
+    },
+    {
+      "_id": 633,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 633 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "229,416.73",
+      "alphachi": 86.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1899"
+    },
+    {
+      "_id": 634,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 634 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "376,426.01",
+      "alphachi": 39,
+      "rakusatsugyosha": "有限会社六ッ川建設 1902"
+    },
+    {
+      "_id": 635,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 635 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "338,104.46",
+      "alphachi": 40.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1905"
+    },
+    {
+      "_id": 636,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 636 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "108,654.86",
+      "alphachi": 48.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1908"
+    },
+    {
+      "_id": 637,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 637 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "167,044.11",
+      "alphachi": 31.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1911"
+    },
+    {
+      "_id": 638,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 638 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "215,301.48",
+      "alphachi": 19.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1914"
+    },
+    {
+      "_id": 639,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 639 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "109,118.80",
+      "alphachi": 26.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1917"
+    },
+    {
+      "_id": 640,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 640 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "310,734.33",
+      "alphachi": 35.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1920"
+    },
+    {
+      "_id": 641,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 641 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "229,558.47",
+      "alphachi": 19.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1923"
+    },
+    {
+      "_id": 642,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 642 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "365,639.75",
+      "alphachi": 19.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1926"
+    },
+    {
+      "_id": 643,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 643 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "368,544.85",
+      "alphachi": 36,
+      "rakusatsugyosha": "有限会社六ッ川建設 1929"
+    },
+    {
+      "_id": 644,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 644 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "137,962.07",
+      "alphachi": 58.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1932"
+    },
+    {
+      "_id": 645,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 645 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "348,780.84",
+      "alphachi": 36.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1935"
+    },
+    {
+      "_id": 646,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 646 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "316,302.75",
+      "alphachi": 9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1938"
+    },
+    {
+      "_id": 647,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 647 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "192,976.98",
+      "alphachi": 91.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1941"
+    },
+    {
+      "_id": 648,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 648 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "187,384.54",
+      "alphachi": 63.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1944"
+    },
+    {
+      "_id": 649,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 649 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "177,602.87",
+      "alphachi": 81.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1947"
+    },
+    {
+      "_id": 650,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 650 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "322,079.08",
+      "alphachi": 79.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1950"
+    },
+    {
+      "_id": 651,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 651 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "240,548.04",
+      "alphachi": 3.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1953"
+    },
+    {
+      "_id": 652,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 652 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "100,365.58",
+      "alphachi": 48.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1956"
+    },
+    {
+      "_id": 653,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 653 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "273,444.33",
+      "alphachi": 76.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1959"
+    },
+    {
+      "_id": 654,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 654 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "241,321.52",
+      "alphachi": 56.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 1962"
+    },
+    {
+      "_id": 655,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 655 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "308,768.75",
+      "alphachi": 66.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1965"
+    },
+    {
+      "_id": 656,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 656 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "332,308.37",
+      "alphachi": 21.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1968"
+    },
+    {
+      "_id": 657,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 657 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "105,802.15",
+      "alphachi": 57.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 1971"
+    },
+    {
+      "_id": 658,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 658 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "375,676.07",
+      "alphachi": 42.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1974"
+    },
+    {
+      "_id": 659,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 659 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "277,396.91",
+      "alphachi": 90.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 1977"
+    },
+    {
+      "_id": 660,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 660 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "293,896.85",
+      "alphachi": 49.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 1980"
+    },
+    {
+      "_id": 661,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 661 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "137,097.91",
+      "alphachi": 52.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1983"
+    },
+    {
+      "_id": 662,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 662 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "399,622.22",
+      "alphachi": 70.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 1986"
+    },
+    {
+      "_id": 663,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 663 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "130,406.89",
+      "alphachi": 16.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 1989"
+    },
+    {
+      "_id": 664,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 664 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "302,158.65",
+      "alphachi": 52.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 1992"
+    },
+    {
+      "_id": 665,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 665 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,689.56",
+      "alphachi": 11.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1995"
+    },
+    {
+      "_id": 666,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 666 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "352,237.26",
+      "alphachi": 55.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 1998"
+    },
+    {
+      "_id": 667,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 667 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "132,926.48",
+      "alphachi": 5.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2001"
+    },
+    {
+      "_id": 668,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 668 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "285,466.26",
+      "alphachi": 86.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2004"
+    },
+    {
+      "_id": 669,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 669 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "282,138.47",
+      "alphachi": 31.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2007"
+    },
+    {
+      "_id": 670,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 670 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "334,109.93",
+      "alphachi": 38.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2010"
+    },
+    {
+      "_id": 671,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 671 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "148,762.83",
+      "alphachi": 26.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2013"
+    },
+    {
+      "_id": 672,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 672 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "200,929.53",
+      "alphachi": 4.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2016"
+    },
+    {
+      "_id": 673,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 673 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "284,334.63",
+      "alphachi": 87,
+      "rakusatsugyosha": "有限会社六ッ川建設 2019"
+    },
+    {
+      "_id": 674,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 674 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "129,867.69",
+      "alphachi": 17.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2022"
+    },
+    {
+      "_id": 675,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 675 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "192,940.35",
+      "alphachi": 22.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2025"
+    },
+    {
+      "_id": 676,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 676 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "390,019.70",
+      "alphachi": 36.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2028"
+    },
+    {
+      "_id": 677,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 677 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "333,187.55",
+      "alphachi": 71.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2031"
+    },
+    {
+      "_id": 678,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 678 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "382,471.11",
+      "alphachi": 41.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2034"
+    },
+    {
+      "_id": 679,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 679 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "139,691.96",
+      "alphachi": 90.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2037"
+    },
+    {
+      "_id": 680,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 680 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "175,479.42",
+      "alphachi": 76.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2040"
+    },
+    {
+      "_id": 681,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 681 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "115,685.54",
+      "alphachi": 50.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2043"
+    },
+    {
+      "_id": 682,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 682 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "116,799.94",
+      "alphachi": 56.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2046"
+    },
+    {
+      "_id": 683,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 683 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "341,010.08",
+      "alphachi": 31.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2049"
+    },
+    {
+      "_id": 684,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 684 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "146,264.62",
+      "alphachi": 86.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2052"
+    },
+    {
+      "_id": 685,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 685 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "367,891.07",
+      "alphachi": 77.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2055"
+    },
+    {
+      "_id": 686,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 686 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "104,783.09",
+      "alphachi": 8.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2058"
+    },
+    {
+      "_id": 687,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 687 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "311,261.25",
+      "alphachi": 46.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2061"
+    },
+    {
+      "_id": 688,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 688 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "399,533.51",
+      "alphachi": 19.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2064"
+    },
+    {
+      "_id": 689,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 689 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "273,045.84",
+      "alphachi": 34.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2067"
+    },
+    {
+      "_id": 690,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 690 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "346,396.31",
+      "alphachi": 90.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2070"
+    },
+    {
+      "_id": 691,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 691 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "306,948.93",
+      "alphachi": 97.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2073"
+    },
+    {
+      "_id": 692,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 692 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "292,585.32",
+      "alphachi": 15.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2076"
+    },
+    {
+      "_id": 693,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 693 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "228,973.73",
+      "alphachi": 73.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2079"
+    },
+    {
+      "_id": 694,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 694 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "336,548.35",
+      "alphachi": 36.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2082"
+    },
+    {
+      "_id": 695,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 695 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "316,160.06",
+      "alphachi": 77.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2085"
+    },
+    {
+      "_id": 696,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 696 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "173,382.89",
+      "alphachi": 86.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2088"
+    },
+    {
+      "_id": 697,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 697 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "254,544.00",
+      "alphachi": 76.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2091"
+    },
+    {
+      "_id": 698,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 698 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,002.31",
+      "alphachi": 98.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2094"
+    },
+    {
+      "_id": 699,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 699 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "365,572.53",
+      "alphachi": 84.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2097"
+    },
+    {
+      "_id": 700,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 700 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "389,500.44",
+      "alphachi": 84,
+      "rakusatsugyosha": "有限会社六ッ川建設 2100"
+    },
+    {
+      "_id": 701,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 701 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "195,686.07",
+      "alphachi": 93,
+      "rakusatsugyosha": "有限会社六ッ川建設 2103"
+    },
+    {
+      "_id": 702,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 702 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "174,187.70",
+      "alphachi": 56.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2106"
+    },
+    {
+      "_id": 703,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 703 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "357,437.12",
+      "alphachi": 54.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2109"
+    },
+    {
+      "_id": 704,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 704 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "256,328.47",
+      "alphachi": 72.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2112"
+    },
+    {
+      "_id": 705,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 705 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "312,062.94",
+      "alphachi": 74.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2115"
+    },
+    {
+      "_id": 706,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 706 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "241,461.44",
+      "alphachi": 13.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2118"
+    },
+    {
+      "_id": 707,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 707 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "342,798.95",
+      "alphachi": 77.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2121"
+    },
+    {
+      "_id": 708,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 708 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "314,345.33",
+      "alphachi": 78.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2124"
+    },
+    {
+      "_id": 709,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 709 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "295,152.52",
+      "alphachi": 45.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2127"
+    },
+    {
+      "_id": 710,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 710 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "392,011.14",
+      "alphachi": 76.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2130"
+    },
+    {
+      "_id": 711,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 711 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "156,253.00",
+      "alphachi": 37,
+      "rakusatsugyosha": "有限会社六ッ川建設 2133"
+    },
+    {
+      "_id": 712,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 712 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "141,965.99",
+      "alphachi": 58,
+      "rakusatsugyosha": "有限会社六ッ川建設 2136"
+    },
+    {
+      "_id": 713,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 713 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "344,115.73",
+      "alphachi": 61.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2139"
+    },
+    {
+      "_id": 714,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 714 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "172,094.29",
+      "alphachi": 79.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2142"
+    },
+    {
+      "_id": 715,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 715 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "172,212.28",
+      "alphachi": 27.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2145"
+    },
+    {
+      "_id": 716,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 716 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "397,806.48",
+      "alphachi": 81.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2148"
+    },
+    {
+      "_id": 717,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 717 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "232,037.54",
+      "alphachi": 52.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2151"
+    },
+    {
+      "_id": 718,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 718 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "186,844.09",
+      "alphachi": 60.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2154"
+    },
+    {
+      "_id": 719,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 719 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "154,329.18",
+      "alphachi": 22.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2157"
+    },
+    {
+      "_id": 720,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 720 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,636.47",
+      "alphachi": 61.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2160"
+    },
+    {
+      "_id": 721,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 721 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "372,416.86",
+      "alphachi": 23.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2163"
+    },
+    {
+      "_id": 722,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 722 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "239,783.63",
+      "alphachi": 37.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2166"
+    },
+    {
+      "_id": 723,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 723 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "210,532.42",
+      "alphachi": 69.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2169"
+    },
+    {
+      "_id": 724,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 724 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "257,392.93",
+      "alphachi": 85.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2172"
+    },
+    {
+      "_id": 725,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 725 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "209,946.82",
+      "alphachi": 92.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2175"
+    },
+    {
+      "_id": 726,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 726 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "209,614.08",
+      "alphachi": 79.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2178"
+    },
+    {
+      "_id": 727,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 727 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "348,071.66",
+      "alphachi": 86.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2181"
+    },
+    {
+      "_id": 728,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 728 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "207,271.88",
+      "alphachi": 16.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2184"
+    },
+    {
+      "_id": 729,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 729 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "127,137.60",
+      "alphachi": 39.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2187"
+    },
+    {
+      "_id": 730,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 730 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "172,019.50",
+      "alphachi": 46.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2190"
+    },
+    {
+      "_id": 731,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 731 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "123,632.56",
+      "alphachi": 71.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2193"
+    },
+    {
+      "_id": 732,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 732 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "284,682.69",
+      "alphachi": 51.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2196"
+    },
+    {
+      "_id": 733,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 733 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "104,268.36",
+      "alphachi": 63.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2199"
+    },
+    {
+      "_id": 734,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 734 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "237,511.16",
+      "alphachi": 22.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2202"
+    },
+    {
+      "_id": 735,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 735 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "122,237.34",
+      "alphachi": 34.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2205"
+    },
+    {
+      "_id": 736,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 736 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "202,824.77",
+      "alphachi": 59.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2208"
+    },
+    {
+      "_id": 737,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 737 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "380,102.85",
+      "alphachi": 41.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2211"
+    },
+    {
+      "_id": 738,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 738 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "124,833.55",
+      "alphachi": 68.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2214"
+    },
+    {
+      "_id": 739,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 739 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "112,996.22",
+      "alphachi": 87.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2217"
+    },
+    {
+      "_id": 740,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 740 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "374,918.68",
+      "alphachi": 11.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2220"
+    },
+    {
+      "_id": 741,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 741 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "327,612.80",
+      "alphachi": 37.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2223"
+    },
+    {
+      "_id": 742,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 742 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "212,753.09",
+      "alphachi": 63.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2226"
+    },
+    {
+      "_id": 743,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 743 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "217,792.34",
+      "alphachi": 26.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2229"
+    },
+    {
+      "_id": 744,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 744 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "131,230.93",
+      "alphachi": 69,
+      "rakusatsugyosha": "有限会社六ッ川建設 2232"
+    },
+    {
+      "_id": 745,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 745 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "151,930.52",
+      "alphachi": 88.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2235"
+    },
+    {
+      "_id": 746,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 746 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "187,837.36",
+      "alphachi": 1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2238"
+    },
+    {
+      "_id": 747,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 747 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,207.84",
+      "alphachi": 62.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2241"
+    },
+    {
+      "_id": 748,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 748 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "226,805.94",
+      "alphachi": 65.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2244"
+    },
+    {
+      "_id": 749,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 749 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "151,957.46",
+      "alphachi": 58.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2247"
+    },
+    {
+      "_id": 750,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 750 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "215,322.11",
+      "alphachi": 29.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2250"
+    },
+    {
+      "_id": 751,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 751 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "150,852.25",
+      "alphachi": 41.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2253"
+    },
+    {
+      "_id": 752,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 752 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "210,634.79",
+      "alphachi": 47.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2256"
+    },
+    {
+      "_id": 753,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 753 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "336,734.27",
+      "alphachi": 70.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2259"
+    },
+    {
+      "_id": 754,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 754 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "143,899.80",
+      "alphachi": 77,
+      "rakusatsugyosha": "有限会社六ッ川建設 2262"
+    },
+    {
+      "_id": 755,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 755 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "131,985.62",
+      "alphachi": 67.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2265"
+    },
+    {
+      "_id": 756,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 756 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "181,148.48",
+      "alphachi": 55.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2268"
+    },
+    {
+      "_id": 757,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 757 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "108,885.50",
+      "alphachi": 68.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2271"
+    },
+    {
+      "_id": 758,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 758 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "341,321.40",
+      "alphachi": 73,
+      "rakusatsugyosha": "有限会社六ッ川建設 2274"
+    },
+    {
+      "_id": 759,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 759 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "180,507.65",
+      "alphachi": 80.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2277"
+    },
+    {
+      "_id": 760,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 760 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "181,855.68",
+      "alphachi": 58.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2280"
+    },
+    {
+      "_id": 761,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 761 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "226,361.07",
+      "alphachi": 3.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2283"
+    },
+    {
+      "_id": 762,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 762 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "153,744.04",
+      "alphachi": 70.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2286"
+    },
+    {
+      "_id": 763,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 763 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "376,008.30",
+      "alphachi": 12.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2289"
+    },
+    {
+      "_id": 764,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 764 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "214,854.11",
+      "alphachi": 97.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2292"
+    },
+    {
+      "_id": 765,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 765 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "167,344.82",
+      "alphachi": 94,
+      "rakusatsugyosha": "有限会社六ッ川建設 2295"
+    },
+    {
+      "_id": 766,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 766 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "255,740.73",
+      "alphachi": 76.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2298"
+    },
+    {
+      "_id": 767,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 767 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "125,700.29",
+      "alphachi": 10.6,
+      "rakusatsugyosha": "有限会社六ッ川建設 2301"
+    },
+    {
+      "_id": 768,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 768 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "229,751.23",
+      "alphachi": 5.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2304"
+    },
+    {
+      "_id": 769,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 769 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,259.31",
+      "alphachi": 9.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2307"
+    },
+    {
+      "_id": 770,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 770 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "308,162.34",
+      "alphachi": 39.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2310"
+    },
+    {
+      "_id": 771,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 771 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "138,379.51",
+      "alphachi": 1.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2313"
+    },
+    {
+      "_id": 772,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 772 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "139,688.79",
+      "alphachi": 68.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2316"
+    },
+    {
+      "_id": 773,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 773 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "282,146.82",
+      "alphachi": 23,
+      "rakusatsugyosha": "有限会社六ッ川建設 2319"
+    },
+    {
+      "_id": 774,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 774 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "242,530.04",
+      "alphachi": 64.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2322"
+    },
+    {
+      "_id": 775,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 775 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "299,224.06",
+      "alphachi": 87.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2325"
+    },
+    {
+      "_id": 776,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 776 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "117,536.12",
+      "alphachi": 40.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2328"
+    },
+    {
+      "_id": 777,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 777 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "258,783.59",
+      "alphachi": 67.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2331"
+    },
+    {
+      "_id": 778,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 778 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "352,826.99",
+      "alphachi": 8.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2334"
+    },
+    {
+      "_id": 779,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 779 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "124,011.70",
+      "alphachi": 5.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2337"
+    },
+    {
+      "_id": 780,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 780 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "296,029.35",
+      "alphachi": 64.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2340"
+    },
+    {
+      "_id": 781,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 781 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "367,805.52",
+      "alphachi": 90.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2343"
+    },
+    {
+      "_id": 782,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 782 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "377,834.69",
+      "alphachi": 28.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2346"
+    },
+    {
+      "_id": 783,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 783 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "268,784.09",
+      "alphachi": 22.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2349"
+    },
+    {
+      "_id": 784,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 784 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "103,015.15",
+      "alphachi": 20.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2352"
+    },
+    {
+      "_id": 785,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 785 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "352,583.59",
+      "alphachi": 51.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2355"
+    },
+    {
+      "_id": 786,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 786 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "295,519.30",
+      "alphachi": 91.1,
+      "rakusatsugyosha": "有限会社六ッ川建設 2358"
+    },
+    {
+      "_id": 787,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 787 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "149,568.16",
+      "alphachi": 87,
+      "rakusatsugyosha": "有限会社六ッ川建設 2361"
+    },
+    {
+      "_id": 788,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 788 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "349,763.91",
+      "alphachi": 29.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2364"
+    },
+    {
+      "_id": 789,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 789 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "351,620.76",
+      "alphachi": 11.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2367"
+    },
+    {
+      "_id": 790,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 790 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "355,701.89",
+      "alphachi": 55.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2370"
+    },
+    {
+      "_id": 791,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 791 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "270,601.61",
+      "alphachi": 56.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2373"
+    },
+    {
+      "_id": 792,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 792 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "155,251.97",
+      "alphachi": 13.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2376"
+    },
+    {
+      "_id": 793,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 793 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "226,130.71",
+      "alphachi": 72.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2379"
+    },
+    {
+      "_id": 794,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 794 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "161,081.33",
+      "alphachi": 45.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2382"
+    },
+    {
+      "_id": 795,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 795 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "189,095.19",
+      "alphachi": 42.8,
+      "rakusatsugyosha": "有限会社六ッ川建設 2385"
+    },
+    {
+      "_id": 796,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 796 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "309,881.45",
+      "alphachi": 71.2,
+      "rakusatsugyosha": "有限会社六ッ川建設 2388"
+    },
+    {
+      "_id": 797,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 797 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "211,306.71",
+      "alphachi": 90.7,
+      "rakusatsugyosha": "有限会社六ッ川建設 2391"
+    },
+    {
+      "_id": 798,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 798 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "119,612.69",
+      "alphachi": 4.5,
+      "rakusatsugyosha": "有限会社六ッ川建設 2394"
+    },
+    {
+      "_id": 799,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 799 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "239,363.48",
+      "alphachi": 38.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2397"
+    },
+    {
+      "_id": 800,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 800 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "393,488.74",
+      "alphachi": 25.4,
+      "rakusatsugyosha": "有限会社六ッ川建設 2400"
+    },
+    {
+      "_id": 801,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 801 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "359,470.36",
+      "alphachi": 29.9,
+      "rakusatsugyosha": "有限会社六ッ川建設 2403"
+    },
+    {
+      "_id": 802,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 802 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "275,241.23",
+      "alphachi": 74.3,
+      "rakusatsugyosha": "有限会社六ッ川建設 2406"
+    },
+    {
+      "_id": 803,
+      "kenmei": "栄土木管内舗装補修（応急修理）工事（その 803 ）",
+      "nyuusatsubi": "2021/03/12",
+      "koushu": "舗装",
+      "yoteikakaku": "199,409.05",
+      "alphachi": 67,
+      "rakusatsugyosha": "有限会社六ッ川建設 2409"
+    }
+  ]
